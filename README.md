@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Daviidkoo4074
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Header](./resources/header.png)
+<p align="center">
+    <img src="./resources/mango_80s.png" width="100">
+</p>
 
-<!---
-Daviidkoo4074/Daviidkoo4074 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Mr. Daviidkoo4074</h1>
+<p align="center">Hi, I'm David and I like programming in **HTML, CSS, JS, Java, C# & Python.</p>
+
+<br />
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=daviidkoo4074&hide_title=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
+</p>
+
+<p float="left" align="center">
+    <a href="https://www.instagram.com/eric_golde/" title="Instagram"><img src="./resources/Instagram.svg" width="100"></a>
+    <a href="https://www.youtube.com/egold555" title="YouTube"><img src="./resources/YouTube.svg" width="100"></a>
+    <a href="https://twitch.tv/ericgolde555" title="Twitch"><img src="./resources/Twitch.svg" width="100"></a>
+    <a href="https://open.spotify.com/user/eric_golde" title="Spotify"><img src="./resources/Spotify.svg" width="100"></a>
+    <a href="https://discord.gg/M3PAyyy" title="Discord"><img src="./resources/Discord.svg" width="100"></a>
+    <a href="mailto:mudrostdosveta@gmail.com?subject=Hi!" title="Email me"><img src="./resources/Email.svg" width="100"></a>
+</p>
+
+<p align="center"><i>If you are wondering if you can use my code, please visit my <a href="https://github.com/egold555/License">license repo</a> for more details.</i></p>
+
+![Footer](./resources/footer.png)
