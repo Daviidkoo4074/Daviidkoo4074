@@ -21,6 +21,6 @@
     <a href="mailto:mudrostdosveta@gmail.com?subject=Hi!" title="Email me"><img src="./resources/Email.svg" width="100"></a>
 </p>
 
-<p align="center"><i>If you are want to use my code, please read my <a href="https://github.com/daviidkoo4074/License">license repo</a> for more details.</i></p>
+<p align="center"><i>If you want to use my code, please read my <a href="https://github.com/daviidkoo4074/License">license repo</a> for more details.</i></p>
 
 ![Footer](./resources/footer.png)
