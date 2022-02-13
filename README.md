@@ -1,6 +1,6 @@
 ![Header](./resources/header.png)
 <p align="center">
-    <img src="./resources/mango_80s.png" width="100">
+    <img src="./resources/Daviidkoo4074.png" width="100">
 </p>
 
 <h1 align="center">Mr. Daviidkoo4074</h1>
