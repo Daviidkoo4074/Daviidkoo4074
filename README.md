@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Mr. Daviidkoo4074</h1>
-<p align="center">Hi, I'm David and I like programming in **HTML, CSS, JS, Java, C# & Python.</p>
+<p align="center">Hi, I'm David and I like programming in **HTML, CSS, JS, Java, C# & Python**.</p>
 
 <br />
 
