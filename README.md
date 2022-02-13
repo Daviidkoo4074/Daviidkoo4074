@@ -13,10 +13,10 @@
 </p>
 
 <p float="left" align="center">
-    <a href="https://www.instagram.com/eric_golde/" title="Instagram"><img src="./resources/Instagram.svg" width="100"></a>
-    <a href="https://www.youtube.com/egold555" title="YouTube"><img src="./resources/YouTube.svg" width="100"></a>
-    <a href="https://twitch.tv/ericgolde555" title="Twitch"><img src="./resources/Twitch.svg" width="100"></a>
-    <a href="https://open.spotify.com/user/eric_golde" title="Spotify"><img src="./resources/Spotify.svg" width="100"></a>
+    <a href="https://www.instagram.com/daviidkoooo4074/" title="Instagram"><img src="./resources/Instagram.svg" width="100"></a>
+    <a href="https://www.youtube.com/daviidkoo4074" title="YouTube"><img src="./resources/YouTube.svg" width="100"></a>
+    <a href="https://twitch.tv/daviidkoo4074" title="Twitch"><img src="./resources/Twitch.svg" width="100"></a>
+    <a href="https://open.spotify.com/user/daviidkoo4074" title="Spotify"><img src="./resources/Spotify.svg" width="100"></a>
     <a href="https://discord.gg/M3PAyyy" title="Discord"><img src="./resources/Discord.svg" width="100"></a>
     <a href="mailto:mudrostdosveta@gmail.com?subject=Hi!" title="Email me"><img src="./resources/Email.svg" width="100"></a>
 </p>
